@@ -9,13 +9,13 @@ module.exports = {
     // ==============================
     //          SESSION
     // ==============================
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "HansTz&PpAnHCzD#L4B_zGyXV7I3Z1h_1CVP3mh56B1AtkcsyP0zEiCsYBg",
 
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-    OWNER_NAME: process.env.OWNER_NAME || "HansTech",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "18296356275",
+    OWNER_NAME: process.env.OWNER_NAME || "MR HOMMIE",
     DEV: process.env.DEV || "255614195217",
 
     // ==============================
@@ -45,9 +45,9 @@ module.exports = {
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    AUTO_TYPING: process.env.AUTO_TYPING || "false",
+    AUTO_TYPING: process.env.AUTO_TYPING || "true",
     READ_CMD: process.env.READ_CMD || "false",
-    AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
+    AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
     
     // ==============================
     //           GROUP
@@ -66,7 +66,7 @@ module.exports = {
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY MR HOMMIE*",
     
     // ==============================
     //      BOT APPEARANCE
